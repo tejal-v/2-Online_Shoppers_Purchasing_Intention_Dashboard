@@ -9,8 +9,8 @@ Excel (Power Query | Pivot Table | Conditional Formatting)
 - This dataset includes 12,330 individual user sessions collected over a year, providing a broad and unbiased perspective on user actions. (e.g.. Specific campaigns, Special days, User profiles and Period.)
 
 ### Objectives
-- Data Collection and Preprocessing: Import, cleanse, and preprocess the data to prepare it for further examination.
-- Utilized a combination of clustered column charts, bar charts, stacked bar charts, pie charts, and KPIs, to understand user behavior and inform sales-enhancing strategies.
+1. Data Collection and Preprocessing: Import, cleanse, and preprocess the data to prepare it for further examination.
+2. Utilized a combination of clustered column charts, bar charts, stacked bar charts, pie charts, and KPIs, to understand user behavior and inform sales-enhancing strategies.
 
 ### Findings
 - Holiday and Special Day - Offer limited-time discounts before holidays or special day to increase sales.
